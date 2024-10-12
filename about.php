@@ -4,7 +4,7 @@ include_once('header.php');
 ?>
 
 
-<h1>Shop About page</h1>
+<h1>Product About page</h1>
 
 
 <?php 

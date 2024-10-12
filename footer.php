@@ -1,4 +1,4 @@
-<p>Copyright © bootstrapdash.com 2020
+<p>Copyright © bootstrapdash.com 2024
     Free Bootstrap dashboard templates from Bootstrapdash.com</p>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

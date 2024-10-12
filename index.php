@@ -3,7 +3,7 @@ include_once('header.php');
 
 ?>
 
-     <h1>My Shop Home</h1>
+     <h1>Product Shop Home</h1>
 
 
 
